@@ -7,4 +7,4 @@ The game at this stage is not ready until the end.
 
 All methods are available at include.
 
-The builds folder contains all the models, animations and textures necessary in the project.
+The builds/resources folder contains all the models, animations and textures necessary in the project.
